@@ -12,6 +12,7 @@
   "license": "ISC",
   "homepage": "https://github.com/basher/storybook-html#readme",
   "scripts": {
+    "build": "storybook",
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 9009",
     "build-storybook": "build-storybook"
