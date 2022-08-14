@@ -1,4 +1,4 @@
-# Storybook HTML
+# Storybook HTML Test
 
 - This repo tests that specific addons work OK for HTML stories - i.e. `docs`, `controls` and `a11y`.
 - `npm run storybook`.
